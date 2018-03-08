@@ -1,0 +1,9 @@
+{
+    "name": "my-awesome-package",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.16.2",
+        "fetch-google-maps": "^2.0.1",
+        "node-fetch": "^2.1.1"
+    }
+}
