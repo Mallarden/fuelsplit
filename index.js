@@ -1,4 +1,4 @@
-fetch('https://maps.googleapis.com/maps/api/distancematrix/json?origins=Vancouver+BC|Seattle&destinations=San+Francisco|Victoria+BC&key=AIzaSyDjj4x_Ar8GsmdTUNI2fOeb7Bnn3EZk4iw', {mode: 'cors'})
+/*fetch('https://maps.googleapis.com/maps/api/distancematrix/json?origins=Vancouver+BC|Seattle&destinations=San+Francisco|Victoria+BC&key=AIzaSyBAZexQnLEpy0sKm7edgp8ugX-2OXssD9w', {mode: 'cors'})
   .then(function(response) {
     return response.text();
   })
@@ -6,5 +6,5 @@ fetch('https://maps.googleapis.com/maps/api/distancematrix/json?origins=Vancouve
     console.log('Request successful', text);
   })
   .catch(function(error) {
-    log('Request failed', error)
-  });
+    console.log('Request failed', error)
+  });*/
